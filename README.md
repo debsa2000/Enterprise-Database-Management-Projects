@@ -1,1 +1,1 @@
-# Enterprose-Database-Management-Projects
+# Enterprise-Database-Management-Projects
